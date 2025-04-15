@@ -12,4 +12,4 @@ feature HA Kamailio
 # kamctl dispatcher add 1 sip:192.168.31.18:5060 0 0 '' 'Media Gateway 2'
 # kamctl dispatcher show
 
-# Asterisk 13 Chan_sip
+# Asterisk 13 Chan_sip 192.168.31.17 & 192.168.31.18
