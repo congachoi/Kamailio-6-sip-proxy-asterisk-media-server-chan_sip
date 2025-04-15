@@ -1,5 +1,5 @@
-TEST 1 server Kamailio + multi server asterisk as Media server
-feature HA Kamailio
+TEST 1 server Kamailio standalone + multi server asterisk as Media server
+
 
 # Rocky Linux 8
 # Kamailio 6 - ip = 192.168.31.10
